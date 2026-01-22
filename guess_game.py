@@ -1,3 +1,7 @@
+# Jongbeom Shim
+# 2026/01/22
+# v1.0
+
 import random
 
 # *f means foreground color, *b means background color
